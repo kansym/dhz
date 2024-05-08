@@ -11,6 +11,8 @@ copyright = "马铃薯炒土豆"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
+# true显示按钮，false不显示
+  enable = false
   keywords = "网址导航,webstack,hugo"
   description = "Webstack Hugo版主题,网址导航"
 
