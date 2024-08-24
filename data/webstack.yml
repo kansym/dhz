@@ -41,10 +41,10 @@
       description: 发现新鲜有趣的产品
     - title: Youtube
       url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
+      description: 全球最大的视频分享平台
     - title: Google
       url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
+      description: 全球最大的搜索平台
     
 
 - taxonomy: 社区咨询
